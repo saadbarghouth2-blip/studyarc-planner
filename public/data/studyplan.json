@@ -1,0 +1,1922 @@
+[
+  {
+    "week": 1,
+    "title": "Introduction & GIS fundamentals",
+    "days": [
+      {
+        "day": 1,
+        "title": "Week 1 - Day 1 activity: Introduction & GIS fundamentals",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 1 of Introduction & GIS fundamentals",
+          "Hands-on exercise related to concept 1"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Introduction & GIS fundamentals - part 1",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Introduction & GIS fundamentals - part 1",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 1 day 1: apply tools and document results."
+      },
+      {
+        "day": 2,
+        "title": "Week 1 - Day 2 activity: Introduction & GIS fundamentals",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 2 of Introduction & GIS fundamentals",
+          "Hands-on exercise related to concept 2"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Introduction & GIS fundamentals - part 2",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Introduction & GIS fundamentals - part 2",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 1 day 2: apply tools and document results."
+      },
+      {
+        "day": 3,
+        "title": "Week 1 - Day 3 activity: Introduction & GIS fundamentals",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 3 of Introduction & GIS fundamentals",
+          "Hands-on exercise related to concept 3"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Introduction & GIS fundamentals - part 3",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Introduction & GIS fundamentals - part 3",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 1 day 3: apply tools and document results."
+      },
+      {
+        "day": 4,
+        "title": "Week 1 - Day 4 activity: Introduction & GIS fundamentals",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 4 of Introduction & GIS fundamentals",
+          "Hands-on exercise related to concept 4"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Introduction & GIS fundamentals - part 4",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Introduction & GIS fundamentals - part 4",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 1 day 4: apply tools and document results."
+      },
+      {
+        "day": 5,
+        "title": "Week 1 - Day 5 activity: Introduction & GIS fundamentals",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 5 of Introduction & GIS fundamentals",
+          "Hands-on exercise related to concept 5"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Introduction & GIS fundamentals - part 5",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Introduction & GIS fundamentals - part 5",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 1 day 5: apply tools and document results."
+      },
+      {
+        "day": 6,
+        "title": "Week 1 - Day 6 activity: Introduction & GIS fundamentals",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 6 of Introduction & GIS fundamentals",
+          "Hands-on exercise related to concept 6"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Introduction & GIS fundamentals - part 6",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Introduction & GIS fundamentals - part 6",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 1 day 6: apply tools and document results."
+      },
+      {
+        "day": 7,
+        "title": "Week 1 - Day 7 activity: Introduction & GIS fundamentals",
+        "duration_min": 120,
+        "objectives": [
+          "Learn core concept 7 of Introduction & GIS fundamentals",
+          "Hands-on exercise related to concept 7"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Introduction & GIS fundamentals - part 7",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Introduction & GIS fundamentals - part 7",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 1 day 7: apply tools and document results."
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "title": "Data sources & management",
+    "days": [
+      {
+        "day": 1,
+        "title": "Week 2 - Day 1 activity: Data sources & management",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 1 of Data sources & management",
+          "Hands-on exercise related to concept 1"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Data sources & management - part 1",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Data sources & management - part 1",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 2 day 1: apply tools and document results."
+      },
+      {
+        "day": 2,
+        "title": "Week 2 - Day 2 activity: Data sources & management",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 2 of Data sources & management",
+          "Hands-on exercise related to concept 2"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Data sources & management - part 2",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Data sources & management - part 2",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 2 day 2: apply tools and document results."
+      },
+      {
+        "day": 3,
+        "title": "Week 2 - Day 3 activity: Data sources & management",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 3 of Data sources & management",
+          "Hands-on exercise related to concept 3"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Data sources & management - part 3",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Data sources & management - part 3",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 2 day 3: apply tools and document results."
+      },
+      {
+        "day": 4,
+        "title": "Week 2 - Day 4 activity: Data sources & management",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 4 of Data sources & management",
+          "Hands-on exercise related to concept 4"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Data sources & management - part 4",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Data sources & management - part 4",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 2 day 4: apply tools and document results."
+      },
+      {
+        "day": 5,
+        "title": "Week 2 - Day 5 activity: Data sources & management",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 5 of Data sources & management",
+          "Hands-on exercise related to concept 5"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Data sources & management - part 5",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Data sources & management - part 5",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 2 day 5: apply tools and document results."
+      },
+      {
+        "day": 6,
+        "title": "Week 2 - Day 6 activity: Data sources & management",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 6 of Data sources & management",
+          "Hands-on exercise related to concept 6"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Data sources & management - part 6",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Data sources & management - part 6",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 2 day 6: apply tools and document results."
+      },
+      {
+        "day": 7,
+        "title": "Week 2 - Day 7 activity: Data sources & management",
+        "duration_min": 120,
+        "objectives": [
+          "Learn core concept 7 of Data sources & management",
+          "Hands-on exercise related to concept 7"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Data sources & management - part 7",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Data sources & management - part 7",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 2 day 7: apply tools and document results."
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "title": "Spatial analysis basics",
+    "days": [
+      {
+        "day": 1,
+        "title": "Week 3 - Day 1 activity: Spatial analysis basics",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 1 of Spatial analysis basics",
+          "Hands-on exercise related to concept 1"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Spatial analysis basics - part 1",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Spatial analysis basics - part 1",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 3 day 1: apply tools and document results."
+      },
+      {
+        "day": 2,
+        "title": "Week 3 - Day 2 activity: Spatial analysis basics",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 2 of Spatial analysis basics",
+          "Hands-on exercise related to concept 2"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Spatial analysis basics - part 2",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Spatial analysis basics - part 2",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 3 day 2: apply tools and document results."
+      },
+      {
+        "day": 3,
+        "title": "Week 3 - Day 3 activity: Spatial analysis basics",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 3 of Spatial analysis basics",
+          "Hands-on exercise related to concept 3"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Spatial analysis basics - part 3",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Spatial analysis basics - part 3",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 3 day 3: apply tools and document results."
+      },
+      {
+        "day": 4,
+        "title": "Week 3 - Day 4 activity: Spatial analysis basics",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 4 of Spatial analysis basics",
+          "Hands-on exercise related to concept 4"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Spatial analysis basics - part 4",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Spatial analysis basics - part 4",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 3 day 4: apply tools and document results."
+      },
+      {
+        "day": 5,
+        "title": "Week 3 - Day 5 activity: Spatial analysis basics",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 5 of Spatial analysis basics",
+          "Hands-on exercise related to concept 5"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Spatial analysis basics - part 5",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Spatial analysis basics - part 5",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 3 day 5: apply tools and document results."
+      },
+      {
+        "day": 6,
+        "title": "Week 3 - Day 6 activity: Spatial analysis basics",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 6 of Spatial analysis basics",
+          "Hands-on exercise related to concept 6"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Spatial analysis basics - part 6",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Spatial analysis basics - part 6",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 3 day 6: apply tools and document results."
+      },
+      {
+        "day": 7,
+        "title": "Week 3 - Day 7 activity: Spatial analysis basics",
+        "duration_min": 120,
+        "objectives": [
+          "Learn core concept 7 of Spatial analysis basics",
+          "Hands-on exercise related to concept 7"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Spatial analysis basics - part 7",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Spatial analysis basics - part 7",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 3 day 7: apply tools and document results."
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "title": "Advanced geoprocessing & automation",
+    "days": [
+      {
+        "day": 1,
+        "title": "Week 4 - Day 1 activity: Advanced geoprocessing & automation",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 1 of Advanced geoprocessing & automation",
+          "Hands-on exercise related to concept 1"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Advanced geoprocessing & automation - part 1",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Advanced geoprocessing & automation - part 1",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 4 day 1: apply tools and document results."
+      },
+      {
+        "day": 2,
+        "title": "Week 4 - Day 2 activity: Advanced geoprocessing & automation",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 2 of Advanced geoprocessing & automation",
+          "Hands-on exercise related to concept 2"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Advanced geoprocessing & automation - part 2",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Advanced geoprocessing & automation - part 2",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 4 day 2: apply tools and document results."
+      },
+      {
+        "day": 3,
+        "title": "Week 4 - Day 3 activity: Advanced geoprocessing & automation",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 3 of Advanced geoprocessing & automation",
+          "Hands-on exercise related to concept 3"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Advanced geoprocessing & automation - part 3",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Advanced geoprocessing & automation - part 3",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 4 day 3: apply tools and document results."
+      },
+      {
+        "day": 4,
+        "title": "Week 4 - Day 4 activity: Advanced geoprocessing & automation",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 4 of Advanced geoprocessing & automation",
+          "Hands-on exercise related to concept 4"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Advanced geoprocessing & automation - part 4",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Advanced geoprocessing & automation - part 4",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 4 day 4: apply tools and document results."
+      },
+      {
+        "day": 5,
+        "title": "Week 4 - Day 5 activity: Advanced geoprocessing & automation",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 5 of Advanced geoprocessing & automation",
+          "Hands-on exercise related to concept 5"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Advanced geoprocessing & automation - part 5",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Advanced geoprocessing & automation - part 5",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 4 day 5: apply tools and document results."
+      },
+      {
+        "day": 6,
+        "title": "Week 4 - Day 6 activity: Advanced geoprocessing & automation",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 6 of Advanced geoprocessing & automation",
+          "Hands-on exercise related to concept 6"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Advanced geoprocessing & automation - part 6",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Advanced geoprocessing & automation - part 6",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 4 day 6: apply tools and document results."
+      },
+      {
+        "day": 7,
+        "title": "Week 4 - Day 7 activity: Advanced geoprocessing & automation",
+        "duration_min": 120,
+        "objectives": [
+          "Learn core concept 7 of Advanced geoprocessing & automation",
+          "Hands-on exercise related to concept 7"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Advanced geoprocessing & automation - part 7",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Advanced geoprocessing & automation - part 7",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 4 day 7: apply tools and document results."
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "title": "Cartography & map design",
+    "days": [
+      {
+        "day": 1,
+        "title": "Week 5 - Day 1 activity: Cartography & map design",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 1 of Cartography & map design",
+          "Hands-on exercise related to concept 1"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Cartography & map design - part 1",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Cartography & map design - part 1",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 5 day 1: apply tools and document results."
+      },
+      {
+        "day": 2,
+        "title": "Week 5 - Day 2 activity: Cartography & map design",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 2 of Cartography & map design",
+          "Hands-on exercise related to concept 2"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Cartography & map design - part 2",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Cartography & map design - part 2",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 5 day 2: apply tools and document results."
+      },
+      {
+        "day": 3,
+        "title": "Week 5 - Day 3 activity: Cartography & map design",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 3 of Cartography & map design",
+          "Hands-on exercise related to concept 3"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Cartography & map design - part 3",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Cartography & map design - part 3",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 5 day 3: apply tools and document results."
+      },
+      {
+        "day": 4,
+        "title": "Week 5 - Day 4 activity: Cartography & map design",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 4 of Cartography & map design",
+          "Hands-on exercise related to concept 4"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Cartography & map design - part 4",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Cartography & map design - part 4",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 5 day 4: apply tools and document results."
+      },
+      {
+        "day": 5,
+        "title": "Week 5 - Day 5 activity: Cartography & map design",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 5 of Cartography & map design",
+          "Hands-on exercise related to concept 5"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Cartography & map design - part 5",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Cartography & map design - part 5",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 5 day 5: apply tools and document results."
+      },
+      {
+        "day": 6,
+        "title": "Week 5 - Day 6 activity: Cartography & map design",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 6 of Cartography & map design",
+          "Hands-on exercise related to concept 6"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Cartography & map design - part 6",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Cartography & map design - part 6",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 5 day 6: apply tools and document results."
+      },
+      {
+        "day": 7,
+        "title": "Week 5 - Day 7 activity: Cartography & map design",
+        "duration_min": 120,
+        "objectives": [
+          "Learn core concept 7 of Cartography & map design",
+          "Hands-on exercise related to concept 7"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Cartography & map design - part 7",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Cartography & map design - part 7",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 5 day 7: apply tools and document results."
+      }
+    ]
+  },
+  {
+    "week": 6,
+    "title": "Geodatabases & data modeling",
+    "days": [
+      {
+        "day": 1,
+        "title": "Week 6 - Day 1 activity: Geodatabases & data modeling",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 1 of Geodatabases & data modeling",
+          "Hands-on exercise related to concept 1"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Geodatabases & data modeling - part 1",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Geodatabases & data modeling - part 1",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 6 day 1: apply tools and document results."
+      },
+      {
+        "day": 2,
+        "title": "Week 6 - Day 2 activity: Geodatabases & data modeling",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 2 of Geodatabases & data modeling",
+          "Hands-on exercise related to concept 2"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Geodatabases & data modeling - part 2",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Geodatabases & data modeling - part 2",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 6 day 2: apply tools and document results."
+      },
+      {
+        "day": 3,
+        "title": "Week 6 - Day 3 activity: Geodatabases & data modeling",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 3 of Geodatabases & data modeling",
+          "Hands-on exercise related to concept 3"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Geodatabases & data modeling - part 3",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Geodatabases & data modeling - part 3",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 6 day 3: apply tools and document results."
+      },
+      {
+        "day": 4,
+        "title": "Week 6 - Day 4 activity: Geodatabases & data modeling",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 4 of Geodatabases & data modeling",
+          "Hands-on exercise related to concept 4"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Geodatabases & data modeling - part 4",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Geodatabases & data modeling - part 4",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 6 day 4: apply tools and document results."
+      },
+      {
+        "day": 5,
+        "title": "Week 6 - Day 5 activity: Geodatabases & data modeling",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 5 of Geodatabases & data modeling",
+          "Hands-on exercise related to concept 5"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Geodatabases & data modeling - part 5",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Geodatabases & data modeling - part 5",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 6 day 5: apply tools and document results."
+      },
+      {
+        "day": 6,
+        "title": "Week 6 - Day 6 activity: Geodatabases & data modeling",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 6 of Geodatabases & data modeling",
+          "Hands-on exercise related to concept 6"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Geodatabases & data modeling - part 6",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Geodatabases & data modeling - part 6",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 6 day 6: apply tools and document results."
+      },
+      {
+        "day": 7,
+        "title": "Week 6 - Day 7 activity: Geodatabases & data modeling",
+        "duration_min": 120,
+        "objectives": [
+          "Learn core concept 7 of Geodatabases & data modeling",
+          "Hands-on exercise related to concept 7"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Geodatabases & data modeling - part 7",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Geodatabases & data modeling - part 7",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 6 day 7: apply tools and document results."
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "title": "ArcGIS Online fundamentals",
+    "days": [
+      {
+        "day": 1,
+        "title": "Week 7 - Day 1 activity: ArcGIS Online fundamentals",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 1 of ArcGIS Online fundamentals",
+          "Hands-on exercise related to concept 1"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for ArcGIS Online fundamentals - part 1",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for ArcGIS Online fundamentals - part 1",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 7 day 1: apply tools and document results."
+      },
+      {
+        "day": 2,
+        "title": "Week 7 - Day 2 activity: ArcGIS Online fundamentals",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 2 of ArcGIS Online fundamentals",
+          "Hands-on exercise related to concept 2"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for ArcGIS Online fundamentals - part 2",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for ArcGIS Online fundamentals - part 2",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 7 day 2: apply tools and document results."
+      },
+      {
+        "day": 3,
+        "title": "Week 7 - Day 3 activity: ArcGIS Online fundamentals",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 3 of ArcGIS Online fundamentals",
+          "Hands-on exercise related to concept 3"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for ArcGIS Online fundamentals - part 3",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for ArcGIS Online fundamentals - part 3",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 7 day 3: apply tools and document results."
+      },
+      {
+        "day": 4,
+        "title": "Week 7 - Day 4 activity: ArcGIS Online fundamentals",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 4 of ArcGIS Online fundamentals",
+          "Hands-on exercise related to concept 4"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for ArcGIS Online fundamentals - part 4",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for ArcGIS Online fundamentals - part 4",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 7 day 4: apply tools and document results."
+      },
+      {
+        "day": 5,
+        "title": "Week 7 - Day 5 activity: ArcGIS Online fundamentals",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 5 of ArcGIS Online fundamentals",
+          "Hands-on exercise related to concept 5"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for ArcGIS Online fundamentals - part 5",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for ArcGIS Online fundamentals - part 5",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 7 day 5: apply tools and document results."
+      },
+      {
+        "day": 6,
+        "title": "Week 7 - Day 6 activity: ArcGIS Online fundamentals",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 6 of ArcGIS Online fundamentals",
+          "Hands-on exercise related to concept 6"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for ArcGIS Online fundamentals - part 6",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for ArcGIS Online fundamentals - part 6",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 7 day 6: apply tools and document results."
+      },
+      {
+        "day": 7,
+        "title": "Week 7 - Day 7 activity: ArcGIS Online fundamentals",
+        "duration_min": 120,
+        "objectives": [
+          "Learn core concept 7 of ArcGIS Online fundamentals",
+          "Hands-on exercise related to concept 7"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for ArcGIS Online fundamentals - part 7",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for ArcGIS Online fundamentals - part 7",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 7 day 7: apply tools and document results."
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "title": "Web maps & visualization",
+    "days": [
+      {
+        "day": 1,
+        "title": "Week 8 - Day 1 activity: Web maps & visualization",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 1 of Web maps & visualization",
+          "Hands-on exercise related to concept 1"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web maps & visualization - part 1",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web maps & visualization - part 1",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 8 day 1: apply tools and document results."
+      },
+      {
+        "day": 2,
+        "title": "Week 8 - Day 2 activity: Web maps & visualization",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 2 of Web maps & visualization",
+          "Hands-on exercise related to concept 2"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web maps & visualization - part 2",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web maps & visualization - part 2",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 8 day 2: apply tools and document results."
+      },
+      {
+        "day": 3,
+        "title": "Week 8 - Day 3 activity: Web maps & visualization",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 3 of Web maps & visualization",
+          "Hands-on exercise related to concept 3"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web maps & visualization - part 3",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web maps & visualization - part 3",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 8 day 3: apply tools and document results."
+      },
+      {
+        "day": 4,
+        "title": "Week 8 - Day 4 activity: Web maps & visualization",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 4 of Web maps & visualization",
+          "Hands-on exercise related to concept 4"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web maps & visualization - part 4",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web maps & visualization - part 4",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 8 day 4: apply tools and document results."
+      },
+      {
+        "day": 5,
+        "title": "Week 8 - Day 5 activity: Web maps & visualization",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 5 of Web maps & visualization",
+          "Hands-on exercise related to concept 5"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web maps & visualization - part 5",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web maps & visualization - part 5",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 8 day 5: apply tools and document results."
+      },
+      {
+        "day": 6,
+        "title": "Week 8 - Day 6 activity: Web maps & visualization",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 6 of Web maps & visualization",
+          "Hands-on exercise related to concept 6"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web maps & visualization - part 6",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web maps & visualization - part 6",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 8 day 6: apply tools and document results."
+      },
+      {
+        "day": 7,
+        "title": "Week 8 - Day 7 activity: Web maps & visualization",
+        "duration_min": 120,
+        "objectives": [
+          "Learn core concept 7 of Web maps & visualization",
+          "Hands-on exercise related to concept 7"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web maps & visualization - part 7",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web maps & visualization - part 7",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 8 day 7: apply tools and document results."
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "title": "Web apps & Experience Builder",
+    "days": [
+      {
+        "day": 1,
+        "title": "Week 9 - Day 1 activity: Web apps & Experience Builder",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 1 of Web apps & Experience Builder",
+          "Hands-on exercise related to concept 1"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web apps & Experience Builder - part 1",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web apps & Experience Builder - part 1",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 9 day 1: apply tools and document results."
+      },
+      {
+        "day": 2,
+        "title": "Week 9 - Day 2 activity: Web apps & Experience Builder",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 2 of Web apps & Experience Builder",
+          "Hands-on exercise related to concept 2"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web apps & Experience Builder - part 2",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web apps & Experience Builder - part 2",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 9 day 2: apply tools and document results."
+      },
+      {
+        "day": 3,
+        "title": "Week 9 - Day 3 activity: Web apps & Experience Builder",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 3 of Web apps & Experience Builder",
+          "Hands-on exercise related to concept 3"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web apps & Experience Builder - part 3",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web apps & Experience Builder - part 3",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 9 day 3: apply tools and document results."
+      },
+      {
+        "day": 4,
+        "title": "Week 9 - Day 4 activity: Web apps & Experience Builder",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 4 of Web apps & Experience Builder",
+          "Hands-on exercise related to concept 4"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web apps & Experience Builder - part 4",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web apps & Experience Builder - part 4",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 9 day 4: apply tools and document results."
+      },
+      {
+        "day": 5,
+        "title": "Week 9 - Day 5 activity: Web apps & Experience Builder",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 5 of Web apps & Experience Builder",
+          "Hands-on exercise related to concept 5"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web apps & Experience Builder - part 5",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web apps & Experience Builder - part 5",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 9 day 5: apply tools and document results."
+      },
+      {
+        "day": 6,
+        "title": "Week 9 - Day 6 activity: Web apps & Experience Builder",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 6 of Web apps & Experience Builder",
+          "Hands-on exercise related to concept 6"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web apps & Experience Builder - part 6",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web apps & Experience Builder - part 6",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 9 day 6: apply tools and document results."
+      },
+      {
+        "day": 7,
+        "title": "Week 9 - Day 7 activity: Web apps & Experience Builder",
+        "duration_min": 120,
+        "objectives": [
+          "Learn core concept 7 of Web apps & Experience Builder",
+          "Hands-on exercise related to concept 7"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Web apps & Experience Builder - part 7",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Web apps & Experience Builder - part 7",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 9 day 7: apply tools and document results."
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "title": "Raster analysis & imagery",
+    "days": [
+      {
+        "day": 1,
+        "title": "Week 10 - Day 1 activity: Raster analysis & imagery",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 1 of Raster analysis & imagery",
+          "Hands-on exercise related to concept 1"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Raster analysis & imagery - part 1",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Raster analysis & imagery - part 1",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 10 day 1: apply tools and document results."
+      },
+      {
+        "day": 2,
+        "title": "Week 10 - Day 2 activity: Raster analysis & imagery",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 2 of Raster analysis & imagery",
+          "Hands-on exercise related to concept 2"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Raster analysis & imagery - part 2",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Raster analysis & imagery - part 2",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 10 day 2: apply tools and document results."
+      },
+      {
+        "day": 3,
+        "title": "Week 10 - Day 3 activity: Raster analysis & imagery",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 3 of Raster analysis & imagery",
+          "Hands-on exercise related to concept 3"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Raster analysis & imagery - part 3",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Raster analysis & imagery - part 3",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 10 day 3: apply tools and document results."
+      },
+      {
+        "day": 4,
+        "title": "Week 10 - Day 4 activity: Raster analysis & imagery",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 4 of Raster analysis & imagery",
+          "Hands-on exercise related to concept 4"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Raster analysis & imagery - part 4",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Raster analysis & imagery - part 4",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 10 day 4: apply tools and document results."
+      },
+      {
+        "day": 5,
+        "title": "Week 10 - Day 5 activity: Raster analysis & imagery",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 5 of Raster analysis & imagery",
+          "Hands-on exercise related to concept 5"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Raster analysis & imagery - part 5",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Raster analysis & imagery - part 5",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 10 day 5: apply tools and document results."
+      },
+      {
+        "day": 6,
+        "title": "Week 10 - Day 6 activity: Raster analysis & imagery",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 6 of Raster analysis & imagery",
+          "Hands-on exercise related to concept 6"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Raster analysis & imagery - part 6",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Raster analysis & imagery - part 6",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 10 day 6: apply tools and document results."
+      },
+      {
+        "day": 7,
+        "title": "Week 10 - Day 7 activity: Raster analysis & imagery",
+        "duration_min": 120,
+        "objectives": [
+          "Learn core concept 7 of Raster analysis & imagery",
+          "Hands-on exercise related to concept 7"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Raster analysis & imagery - part 7",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Raster analysis & imagery - part 7",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 10 day 7: apply tools and document results."
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "title": "End-to-end project (case study)",
+    "days": [
+      {
+        "day": 1,
+        "title": "Week 11 - Day 1 activity: End-to-end project (case study)",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 1 of End-to-end project (case study)",
+          "Hands-on exercise related to concept 1"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for End-to-end project (case study) - part 1",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for End-to-end project (case study) - part 1",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 11 day 1: apply tools and document results."
+      },
+      {
+        "day": 2,
+        "title": "Week 11 - Day 2 activity: End-to-end project (case study)",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 2 of End-to-end project (case study)",
+          "Hands-on exercise related to concept 2"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for End-to-end project (case study) - part 2",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for End-to-end project (case study) - part 2",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 11 day 2: apply tools and document results."
+      },
+      {
+        "day": 3,
+        "title": "Week 11 - Day 3 activity: End-to-end project (case study)",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 3 of End-to-end project (case study)",
+          "Hands-on exercise related to concept 3"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for End-to-end project (case study) - part 3",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for End-to-end project (case study) - part 3",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 11 day 3: apply tools and document results."
+      },
+      {
+        "day": 4,
+        "title": "Week 11 - Day 4 activity: End-to-end project (case study)",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 4 of End-to-end project (case study)",
+          "Hands-on exercise related to concept 4"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for End-to-end project (case study) - part 4",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for End-to-end project (case study) - part 4",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 11 day 4: apply tools and document results."
+      },
+      {
+        "day": 5,
+        "title": "Week 11 - Day 5 activity: End-to-end project (case study)",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 5 of End-to-end project (case study)",
+          "Hands-on exercise related to concept 5"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for End-to-end project (case study) - part 5",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for End-to-end project (case study) - part 5",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 11 day 5: apply tools and document results."
+      },
+      {
+        "day": 6,
+        "title": "Week 11 - Day 6 activity: End-to-end project (case study)",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 6 of End-to-end project (case study)",
+          "Hands-on exercise related to concept 6"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for End-to-end project (case study) - part 6",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for End-to-end project (case study) - part 6",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 11 day 6: apply tools and document results."
+      },
+      {
+        "day": 7,
+        "title": "Week 11 - Day 7 activity: End-to-end project (case study)",
+        "duration_min": 120,
+        "objectives": [
+          "Learn core concept 7 of End-to-end project (case study)",
+          "Hands-on exercise related to concept 7"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for End-to-end project (case study) - part 7",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for End-to-end project (case study) - part 7",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 11 day 7: apply tools and document results."
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "title": "Portfolio polishing & presentation",
+    "days": [
+      {
+        "day": 1,
+        "title": "Week 12 - Day 1 activity: Portfolio polishing & presentation",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 1 of Portfolio polishing & presentation",
+          "Hands-on exercise related to concept 1"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Portfolio polishing & presentation - part 1",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Portfolio polishing & presentation - part 1",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 12 day 1: apply tools and document results."
+      },
+      {
+        "day": 2,
+        "title": "Week 12 - Day 2 activity: Portfolio polishing & presentation",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 2 of Portfolio polishing & presentation",
+          "Hands-on exercise related to concept 2"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Portfolio polishing & presentation - part 2",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Portfolio polishing & presentation - part 2",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 12 day 2: apply tools and document results."
+      },
+      {
+        "day": 3,
+        "title": "Week 12 - Day 3 activity: Portfolio polishing & presentation",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 3 of Portfolio polishing & presentation",
+          "Hands-on exercise related to concept 3"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Portfolio polishing & presentation - part 3",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Portfolio polishing & presentation - part 3",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 12 day 3: apply tools and document results."
+      },
+      {
+        "day": 4,
+        "title": "Week 12 - Day 4 activity: Portfolio polishing & presentation",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 4 of Portfolio polishing & presentation",
+          "Hands-on exercise related to concept 4"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Portfolio polishing & presentation - part 4",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Portfolio polishing & presentation - part 4",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 12 day 4: apply tools and document results."
+      },
+      {
+        "day": 5,
+        "title": "Week 12 - Day 5 activity: Portfolio polishing & presentation",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 5 of Portfolio polishing & presentation",
+          "Hands-on exercise related to concept 5"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Portfolio polishing & presentation - part 5",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Portfolio polishing & presentation - part 5",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 12 day 5: apply tools and document results."
+      },
+      {
+        "day": 6,
+        "title": "Week 12 - Day 6 activity: Portfolio polishing & presentation",
+        "duration_min": 60,
+        "objectives": [
+          "Learn core concept 6 of Portfolio polishing & presentation",
+          "Hands-on exercise related to concept 6"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Portfolio polishing & presentation - part 6",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Portfolio polishing & presentation - part 6",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 12 day 6: apply tools and document results."
+      },
+      {
+        "day": 7,
+        "title": "Week 12 - Day 7 activity: Portfolio polishing & presentation",
+        "duration_min": 120,
+        "objectives": [
+          "Learn core concept 7 of Portfolio polishing & presentation",
+          "Hands-on exercise related to concept 7"
+        ],
+        "resources": [
+          {
+            "type": "doc",
+            "title": "Official doc for Portfolio polishing & presentation - part 7",
+            "link": "https://pro.arcgis.com/"
+          },
+          {
+            "type": "video",
+            "title": "Tutorial video for Portfolio polishing & presentation - part 7",
+            "link": "https://www.youtube.com/"
+          }
+        ],
+        "exercise": "Practice exercise for week 12 day 7: apply tools and document results."
+      }
+    ]
+  }
+]
