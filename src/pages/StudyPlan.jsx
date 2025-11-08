@@ -8,7 +8,7 @@ export default function StudyPlan(){
   const [progress, setProgress] = useState({totalTasks:0, completedTasks:0})
 
   useEffect(()=>{
-    fetch('/src/data/studyplan.json').then(r=>r.json()).then(data=>{
+    fetch('/data/studyplan.json').then(r=>r.json()).then(data=>{
       setPlan(data); setLoading(false)
       // initialize progress totals
       const total = data.reduce((acc,w)=> acc + w.days.length, 0)
