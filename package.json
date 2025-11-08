@@ -1,0 +1,26 @@
+{
+  "name": "studyarc-planner",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://saadbarghouth2-blip.github.io/studyarc-planner",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.1",
+    "framer-motion": "^10.12.16"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "postcss": "^8.4.24",
+    "postcss-preset-env": "^8.3.2",
+    "gh-pages": "^6.1.1"
+  }
+}
